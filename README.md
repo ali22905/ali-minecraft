@@ -1,6 +1,6 @@
 # what is ali-mincraft game
 
-It is a game made by Ali Attia that are like minecraft. This website is made by React and threeJs
+It is a game made by [Ali Attia](https://portfolio-two-liart-63.vercel.app/) that are like minecraft. This website is made by React and threeJs
 **_NOTE:_** this game is only available on desktop devices, and it will be available on mobile devices soon
 
 
